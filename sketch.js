@@ -17,7 +17,7 @@ function setup() {
 
 function draw() {
 
-  window.open("https://anshugahlyan.github.io/ops/");
+  window.open("https://anshugahlyan.github.io/ops/index.html");
   background(0);
   drawSprites();
 
